@@ -1,0 +1,452 @@
+{
+  "A program is written which asks a user for the width, length and depth of a fish tank. It then multiplies the three figures together and tells the user the volume. Identify an output of this problem.": [
+    "Volume"
+  ],
+  "Which of these describes a classic von Neumann architecture?": [
+    "There is a common system bus for data and instruction transfer",
+    "More than one clock cycle may be required to execute a single instruction",
+    "The CPU cannot access instructions and read/write data at the same time",
+    "The same physical memory address is used for instructions and data"
+  ],
+  "What is one purpose of the CPU?": [
+    "Execute instructions",
+    "Fetch instructions",
+    "Decode instructions"
+  ],
+  "What data type should be used for storing a telephone number?": [
+    "String"
+  ],
+  "Why is the fetch-execute operation of a CPU described as a cycle?": [
+    "Once one instruction has been fetched and executed the CPU can fetch and execute the next one"
+  ],
+  "One purpose of the control unit is to\u2026": [
+    "Send signals to control how data moves around the CPU",
+    "Decode instructions",
+    "Keep the internal components of the CPU synchronised"
+  ],
+  "Which of these characteristics of a computer affects the performance of a CPU?": [
+    "The size of the cache",
+    "Increased clock speed"
+  ],
+  "What is clock speed measured in?": [
+    "Hertz"
+  ],
+  "Which register always holds the address of the next instruction?": [
+    "Program counter"
+  ],
+  "A programmer breaks a problem down into a number of algorithms. Which computational thinking approach has been applied?": [
+    "Decomposition"
+  ],
+  "Which of the following devices found in the home is NOT an embedded system?": [
+    "Personal laptop"
+  ],
+  "An advantage of pseudocode is that\u2026": [
+    "It is a convenient way of designing algorithms to aid thinking logically",
+    "It is very easy to convert pseudocode into actual code"
+  ],
+  "Which of these is a component inside the CPU?": [
+    "CU (Control Unit)",
+    "CU (Control unit)",
+    "ALU (Arithmetic Logic Unit)"
+  ],
+  "One purpose of the program counter is to\u2026": [
+    "Hold the address of the next instruction"
+  ],
+  "What happens in the fetch stage of the fetch-execute cycle?": [
+    "An instruction is copied from the main memory into the CPU"
+  ],
+  "Embedded systems usually avoid using hard disks in favour of flash memory. Why is that?": [
+    "Moving parts are less reliable than solid-state components which are also more robust"
+  ],
+  "Which flow diagram symbol is used to signify a process?": [
+    "Rectangle"
+  ],
+  "When creating a structure diagram using top-down modular design, what do the lowest level leaf nodes end up becoming in the finished program?": [
+    "Modules, procedures and functions"
+  ],
+  "A programmer wants to show an IF command on a flow diagram. Which symbol should they use?": [
+    "Rhombus"
+  ],
+  "What is meant by the term 'clock speed'?": [
+    "The speed at which a processor operates"
+  ],
+  "What is a register?": [
+    "Memory inside the CPU for fetching and executing instructions"
+  ],
+  "One purpose of the arithmetic logic unit (ALU) is to\u2026": [
+    "Carry out logic operations",
+    "Carry out arithmetic operations",
+    "Carry out binary shift operations"
+  ],
+  "A condition or iteration statement in programming such as IF or WHILE could change the address in which register first?": [
+    "Program counter"
+  ],
+  "What is meant by the term 'abstraction'?": [
+    "Including the necessary details and leaving out the unnecessary details"
+  ],
+  "One purpose of the memory data register is to\u2026": [
+    "Hold data fetched from, or to be written to the memory"
+  ],
+  "This component performs calculations and logical comparisons.": [
+    "Arithmetic Logic Unit"
+  ],
+  "Which of the following is NOT a feature of embedded systems?": [
+    "Capable of carrying out a wide variety of tasks"
+  ],
+  "Which flow diagram symbol is used to signify control passing between stages of an algorithm?": [
+    "Arrow"
+  ],
+  "Why does increasing the clock speed of a CPU increase performance?": [
+    "More instructions can be fetched, decoded and executed in the same amount of time"
+  ],
+  "Which of these is a function of the ALU?": [
+    "Arithmetic"
+  ],
+  "What is meant by the term 'algorithmic thinking'?": [
+    "Identifying individual steps that a computer must take to solve a problem"
+  ],
+  "A trace table normally has:": [
+    "One column for each variables in an algorithm"
+  ],
+  "One purpose of the accumulator is to\u2026": [
+    "Hold the result of calculations from the ALU"
+  ],
+  "What is the main advantage of the cache on board the CPU?": [
+    "Fast access to frequently used instructions and data without having to go to RAM."
+  ],
+  "Which of these program instructions can cause the program counter to change the value it stores?": [
+    "A jump instruction e.g. condition or iteration"
+  ],
+  "A programmer wants to show a WHILE command on a flow diagram. Which symbol should they use?": [
+    "Rhombus"
+  ],
+  "When designing an algorithm, programmers can use\u2026": [
+    "Flow diagrams"
+  ],
+  "A rhombus symbol in a flow diagram is used to signify\u2026": [
+    "A decision with a yes or no, true or false answer"
+  ],
+  "Which two registers hold data for the CPU?": [
+    "Memory Data Register and Accumulator"
+  ],
+  "A rectangle symbol in a flow diagram is used to signify\u2026": [
+    "Initialisation, a process or calculation"
+  ],
+  "Embedded systems often have a self-reset function that triggers in the event of data loss or corruption, and can also be triggered periodically by an internal timer. Why is this a requirement?": [
+    "Embedded systems can be used in places that may not by physically accessible"
+  ],
+  "A programmer wants to show a variable being added to a total on a flow diagram. Which symbol should they use?": [
+    "Rectangle"
+  ],
+  "One purpose of the cache is to\u2026": [
+    "Hold frequently used instructions",
+    "Hold frequently used items of data"
+  ],
+  "Which register always holds data fetched from the RAM?": [
+    "Memory data register"
+  ],
+  "What is meant by the term 'decomposition'?": [
+    "Breaking a problem down into smaller sub-problems"
+  ],
+  "One purpose of the memory address register is to\u2026": [
+    "Hold the address of the memory location currently being accessed"
+  ],
+  "What is the purpose of a trace table?": [
+    "To help find logical errors in an algorithm"
+  ],
+  "A parallelogram symbol in a flow diagram is used to signify\u2026": [
+    "The input or output of data"
+  ],
+  "A program is written which asks a user for the width, length and depth of a fish tank. It then multiplies the three figures together and outputs the total volume without storing it in memory. Identify an input for this problem.": [
+    "Width"
+  ],
+  "Which register can only hold the address of the next instruction?": [
+    "Program counter"
+  ],
+  "What is meant by the term 'embedded system'?": [
+    "System with a dedicated function within a larger mechanical/electrical system"
+  ],
+  "A program is written which asks a user for the width, length and depth of a fish tank. It then multiplies the three figures together and outputs the total volume without storing it in memory. Identify a process for this problem.": [
+    "The calculation (width x length x depth)"
+  ],
+  "What type of quick access memory often sits between the CPU registers and the main memory (RAM)?": [
+    "Cache memory"
+  ],
+  "Which two registers hold an address for the CPU?": [
+    "Program Counter and Memory Address Register"
+  ],
+  "What diagram can we use to help us break down a problem in order to identify the components of a problem?": [
+    "Structure diagram"
+  ],
+  "Why does increasing the number of cores increase the speed of the CPU?": [
+    "More than one instruction can be executed at the same time"
+  ],
+  "The processor carries out which three tasks?": [
+    "Fetch-Decode-Execute"
+  ],
+  "What can be described as, 'any information or data which enters a system or program'?": [
+    "Input"
+  ],
+  "Which of these characteristics of a computer system affects the performance of a CPU?": [
+    "The number of cores"
+  ],
+  "Which flow diagram symbol is used to signify a decision?": [
+    "Rhombus"
+  ],
+  "Why does having a very large cache not give a big performance increase for the CPU?": [
+    "It will take more time to fetch the data in a large cache"
+  ],
+  "Which of these is a common component inside the CPU?": [
+    "MAR (Memory Address Register)"
+  ],
+  "What can be described as, 'any information or data which leaves a system or program'?": [
+    "Output"
+  ],
+  "Which register holds the address of the next instruction or the address of data to be fetched?": [
+    "Memory address register"
+  ],
+  "Which flow diagram symbol is used to signify an output?": [
+    "Parallelogram"
+  ],
+  "Which of these is a description of the CPU?": [
+    "Central Processing Unit"
+  ],
+  "Why could a satellite television decoder set-top-box perform the same task more quickly than a high specification PC?": [
+    "Simplified hardware is dedicated to the task"
+  ],
+  "A terminal symbol in a flow diagram is used to signify\u2026": [
+    "The start or end of a process"
+  ],
+  "An arrow symbol in a flow diagram is used to signify\u2026": [
+    "Control passing between connected shapes"
+  ],
+  "Which computer architecture holds both programs and data in same main memory?": [
+    "Von Neumann"
+  ],
+  "What is the purpose of a structure diagram?": [
+    "Break a problem down to show the order of program modules"
+  ],
+  "What technique can be used to make sure no logical errors exist in an algorithm?": [
+    "Trace table"
+  ],
+  "Which of these is a register in the CPU?": [
+    "Program Counter"
+  ],
+  "A graphics artist for a 2D platform game decides that collectable apples will all be a solid green colour. Which aspect of computational thinking has been applied?": [
+    "Abstraction"
+  ],
+  "Why does having a small cache increase the speed of the CPU?": [
+    "Frequently used instructions and data are already in the CPU and are not fetched again from RAM"
+  ],
+  "Which flow diagram symbol is used to signify an input?": [
+    "Parallelogram"
+  ],
+  "Which part of the fetch-execute cycle can be described as, 'the current instruction is carried out.'": [
+    "Execute"
+  ],
+  "Which one of the following is least likely to affect the performance of the CPU?": [
+    "Choice of operating system"
+  ],
+  "A disadvantage of pseudocode is that\u2026": [
+    "There are no established standards"
+  ],
+  "What can be described as, 'anything which happens to information or data during a program execution'?": [
+    "Process"
+  ],
+  "Which of these is one characteristic of ROM?": [
+    "Non-volatile",
+    "Small capacity in comparison to other types of primary memory external to the CPU",
+    "Read only"
+  ],
+  "A desktop PC with an internal single drive of 8TB is likely to be\u2026": [
+    "Magnetic"
+  ],
+  "The reason a computer needs secondary storage is because\u2026": [
+    "RAM is volatile and has a relatively small capacity"
+  ],
+  "Which of these is an optical storage device?": [
+    "DVD-RW",
+    "CD-R"
+  ],
+  "Which type of file is lossy compression best suited to?": [
+    "Images",
+    "Sound"
+  ],
+  "What does compression do?": [
+    "Reduce the number of bits in a file"
+  ],
+  "Using part of the hard disk as if it were RAM is known as\u2026": [
+    "Virtual memory"
+  ],
+  "What is meant by the term volatile in the context of memory?": [
+    "Data is lost when the power is turned off"
+  ],
+  "Virtual memory can be explained as\u2026": [
+    "Putting instructions and data the CPU is not using to secondary storage to load in ones that it currently needs"
+  ],
+  "With secondary storage devices, durability refers to\u2026": [
+    "How likely the device is to fail if it is knocked or dropped"
+  ],
+  "What is one characteristic of lossy compression?": [
+    "File cannot be turned back into its original format",
+    "Some data is lost"
+  ],
+  "Which of these types of storage is limited by the maximum number of write times before it fails?": [
+    "Solid state drive"
+  ],
+  "The RAM might store\u2026": [
+    "The instructions of the operating system",
+    "Data being used by currently loaded programs"
+  ],
+  "What is a purpose of the ROM?": [
+    "To store the first instructions for a computer to boot"
+  ],
+  "With secondary storage devices, speed refers to\u2026": [
+    "How quickly data can be found and transferred"
+  ],
+  "What best describes virtual memory?": [
+    "Using the hard disk as if it were memory"
+  ],
+  "One advantage of solid-state memory over a hard disk is that\u2026": [
+    "It uses less power",
+    "It is significantly faster"
+  ],
+  "When choosing suitable storage devices and media for an application, you should consider\u2026": [
+    "Durability",
+    "Capacity",
+    "Portability",
+    "Cost",
+    "Reliability",
+    "Speed"
+  ],
+  "Which of these is one characteristic of RAM?": [
+    "Read and write",
+    "Larger capacity in comparison to other types of primary memory external to the CPU",
+    "Volatile"
+  ],
+  "What is one effect of data compression?": [
+    "A file will transfer more quickly",
+    "A file will require less storage capacity"
+  ],
+  "Which of the following types of memory has the slowest access speed?": [
+    "Virtual memory"
+  ],
+  "DVD-R format is\u2026": [
+    "Write once, read many times and non-volatile"
+  ],
+  "A desktop PC user wants to maximise the speed of loading and using their operating system (OS), which has frequent updates. Which configuration would work best?": [
+    "OS stored on solid state drive, applications on hard drive"
+  ],
+  "From highest to lowest speed, what is the correct order for these devices?": [
+    "Solid state drive, hard disk, CD-R"
+  ],
+  "A personal, portable blood pressure monitor has some internal secondary storage. Which of these is it likely to be?": [
+    "Solid state"
+  ],
+  "What does the acronym 'ROM' stand for?": [
+    "Read Only Memory"
+  ],
+  "With secondary storage devices, reliability refers to\u2026": [
+    "How likely the device will save/read data correctly"
+  ],
+  "One advantage of virtual memory is\u2026": [
+    "The computer can have more programs loaded at the same time than it has the RAM for"
+  ],
+  "One disadvantage of virtual memory is\u2026": [
+    "It slows the computer down because of the extra data transfer needed"
+  ],
+  "What does the acronym 'RAM' stand for?": [
+    "Random Access Memory"
+  ],
+  "A police officer has a body worn video camera (BWV). Which is the most likely secondary storage medium for this device?": [
+    "Solid state"
+  ],
+  "Which of the following is the least portable form of storage?": [
+    "Magnetic hard disk"
+  ],
+  "Why would a user choose to swap their hard disk for an SSD?": [
+    "It has a quicker access speed"
+  ],
+  "One advantage of solid-state storage over a magnetic hard disk is that\u2026": [
+    "It is generally more durable"
+  ],
+  "Which of these is magnetic storage?": [
+    "Hard disk"
+  ],
+  "Which of these is considered primary storage?": [
+    "RAM and ROM"
+  ],
+  "What type of storage device are you most likely to find in a mobile phone?": [
+    "Solid state"
+  ],
+  "Which of the following is the most portable form of storage?": [
+    "USB memory stick"
+  ],
+  "In the past, computing magazines distributed free and trial software using DVD-R disks attached to the front of the magazine. They did this because\u2026": [
+    "DVD-R was the cheapest of the storage options"
+  ],
+  "Secondary storage is?": [
+    "A permanent storage of data when the power is turned off"
+  ],
+  "One advantage of a hard disk over solid-state memory is that\u2026": [
+    "It generally has a larger capacity"
+  ],
+  "A DVD-R holds an archive of thirty, 1.5MB images. The disk has a capacity of 640MB. How much free storage theoretically is left on the drive, assuming no overheads?": [
+    "595MB"
+  ],
+  "CD's, DVDs and Blu-Ray are classified as what type of storage?": [
+    "Optical"
+  ],
+  "Virtual memory is needed because\u2026": [
+    "The computer cannot multi-task when it runs out of memory"
+  ],
+  "A typical use for a DVD-R could be\u2026": [
+    "Storing archive files"
+  ],
+  "What is one characteristic of lossless compression?": [
+    "None of the data is lost",
+    "File can be turned back into its original format"
+  ],
+  "With secondary storage devices, portability refers to\u2026": [
+    "How easy it is to move the storage medium between two places"
+  ],
+  "Which type of secondary storage would you recommend for low latency and fast transfer speeds?": [
+    "Solid state"
+  ],
+  "What is a purpose of the RAM?": [
+    "A temporary store for instructions and data"
+  ],
+  "A school with a limited budget is likely to use what sort of storage on its file servers?": [
+    "Magnetic"
+  ],
+  "Why do computer systems need primary storage?": [
+    "Accessing data from secondary storage is slow"
+  ],
+  "Under normal circumstances, when data or instructions are read from secondary storage where are they copied to?": [
+    "Primary storage"
+  ],
+  "USB memory sticks are classified as what type of storage?": [
+    "Solid state"
+  ],
+  "Which of these storage options is best for storing games external to a portable games console, thereby minimising the need for internal flash memory capacity?": [
+    "Flash memory cards"
+  ],
+  "Hard disks are classified as what type of storage?": [
+    "Magnetic"
+  ],
+  "Which of the following has the lowest cost for storage byte for byte?": [
+    "Internal magnetic hard disk"
+  ],
+  "Which of these is the major advantage of optical disks for storing an album of music?": [
+    "Low cost"
+  ],
+  "Which of the following types of memory is in the processor?": [
+    "Processor registers"
+  ],
+  "Which of the following types of storage devices uses 'pits and lands' to store its data?": [
+    "Optical"
+  ],
+  "Which of these is not a suitable use of DVD-R disk?": [
+    "Storing initialisation files for an installed operating system"
+  ]
+}
